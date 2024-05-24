@@ -1,5 +1,8 @@
-## Hi there 👋
-
+### Hi there 👋
+I'm Mateus Camargo
+🥇
+Vai corinthians 🖤
+ *Estou estudadando no Alura
 <!--
 **mts19100/mts19100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ 
